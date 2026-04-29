@@ -121,12 +121,12 @@ java -cp bin Main
 
 ### 🔍 UI
 
-![UI](P2Ptranfer./assets/send.jpeg)
+![UI](P2PTransfer/assets/send.jpeg)
 
 
 ### 📁 File Transfer
 
-![File Transfer](P2PTranfer./assets/transfer.jpeg)
+![File Transfer](P2PTransfer/assets/transfer.jpeg)
 
 
 ---
