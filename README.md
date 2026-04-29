@@ -113,7 +113,7 @@ java -cp bin Main
 
 ---
 
-## 📸 Demo (Add Your Screenshots Here)
+## 📸 Demo 
 
 ### 🖥️ Home
 
@@ -121,12 +121,12 @@ java -cp bin Main
 
 ### 🔍 UI
 
-![Peer Discovery](./assets/send.jpeg)
+![UI](./assets/send.jpeg)
 
 
 ### 📁 File Transfer
 
-![File Transfer](./assets/ransfer.jpeg)
+![File Transfer](./assets/transfer.jpeg)
 
 
 ---
