@@ -117,7 +117,7 @@ java -cp bin Main
 
 ### 🖥️ Home
 
-![Main UI](P2PTransfer/blob/main/P2PTransfer/assets/main-ui.png.jpeg)
+(![Main UI](P2PTransfer/assets/main-ui.png.jpeg)
 
 ### 🔍 UI
 
