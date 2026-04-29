@@ -162,7 +162,7 @@ java -cp bin Main
 ---
 
 
-### ✅ MIT License (Recommended)
+### ✅ MIT License
 
 * Free to use, modify, distribute
 * Only requires credit
