@@ -154,7 +154,6 @@ java -cp bin Main
 
 ## 🚀 Future Improvements
 
-* 🔒 AES Encryption for secure file transfer
 * ⏸ Resume interrupted transfers
 * 🌐 Cross-network (internet-based) connection
 * 📊 Transfer progress bar & speed tracking
@@ -199,8 +198,9 @@ This project demonstrates:
 * Real-time communication systems
 
   
-** computer networking project
-Perfect for learning **system design basics + networking + Java desktop development**.
+**Computer Networking Project.
+**Perfect for learning 
+**system design basics + networking + Java desktop development**.
 
 ---
 
