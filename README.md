@@ -117,16 +117,16 @@ java -cp bin Main
 
 ### 🖥️ Home
 
-![Main UI](./assets/main-ui.png)
+![Main UI](./assets/main-ui.png.jpeg)
 
 ### 🔍 UI
 
-![Peer Discovery](./assets/send.png)
+![Peer Discovery](./assets/send.jpeg)
 
 
 ### 📁 File Transfer
 
-![File Transfer](./assets/ransfer.png)
+![File Transfer](./assets/ransfer.jpeg)
 
 
 ---
@@ -187,8 +187,6 @@ Steps:
 
 **Md. Al Imran Emon**
 
-* GitHub: https://github.com/imranonweb
-
 ---
 
 ## ⭐ Final Note
@@ -200,6 +198,8 @@ This project demonstrates:
 * GUI design (Swing)
 * Real-time communication systems
 
+  
+** computer networking project
 Perfect for learning **system design basics + networking + Java desktop development**.
 
 ---
