@@ -117,16 +117,16 @@ java -cp bin Main
 
 ### 🖥️ Home
 
-![Main UI](./assets/main-ui.png.jpeg)
+![Main UI](P2PTranfer./assets/main-ui.png.jpeg)
 
 ### 🔍 UI
 
-![UI](./assets/send.jpeg)
+![UI](P2Ptranfer./assets/send.jpeg)
 
 
 ### 📁 File Transfer
 
-![File Transfer](./assets/transfer.jpeg)
+![File Transfer](P2PTranfer./assets/transfer.jpeg)
 
 
 ---
